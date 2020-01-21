@@ -7,3 +7,5 @@ leite
 sabonete
 shampoo
 saco de lixo 50 litros
+maça
+banana
