@@ -1,5 +1,6 @@
 refrigerante
 cafe
+pipoca
 papel higienico
 papel toalha
 leite
