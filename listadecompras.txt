@@ -9,3 +9,6 @@ shampoo
 saco de lixo 50 litros
 maça
 banana
+laranja
+pera
+limao
