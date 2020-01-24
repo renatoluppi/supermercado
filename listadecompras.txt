@@ -9,3 +9,5 @@ shampoo
 saco de lixo 50 litros
 maça
 banana
+tinta amarela 
+pilha aa
