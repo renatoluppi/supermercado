@@ -15,3 +15,5 @@ laranja
 pera
 limao
 sorvete
+camiseta
+meias
