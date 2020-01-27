@@ -4,6 +4,7 @@ pipoca
 papel higienico
 papel toalha
 leite
+chocolate
 sabonete
 shampoo
 saco de lixo 50 litros
