@@ -2,6 +2,7 @@ refrigerante
 cafe
 pipoca
 papel higienico
+perfume
 papel toalha
 leite
 chocolate
